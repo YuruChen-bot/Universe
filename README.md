@@ -1,2 +1,1 @@
-a database created using PostgreSQL
-homework on freecodecamp/relational database
+A database created using PostgreSQL. Homework on freecodecamp/relational database
